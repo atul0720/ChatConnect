@@ -13,7 +13,7 @@ engaging in vibrant discussions, and fostering meaningful conversations.
 
 
 <p align="center">
-    <img src="/client/public/app_screenshot.png" />
+    <img src="client/public/app_screenshot.png" />
 </p>
 
 ## Features
